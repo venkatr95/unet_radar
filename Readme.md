@@ -14,4 +14,6 @@ Run main.py with args -w resunet_radar
 
 (* If you dont pass the arguments the program will train the model with 20 epochs)
 
-Figure_1 in the repo shows a sample output after training.
+Figure unet_plots in the repo shows a sample output after training.
+
+![alt text](https://github.com/venkatr95/unet_radar/blob/master/unet_plots.png)
